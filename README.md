@@ -1,1 +1,1 @@
-# go lang hello world
+# golang for beginner
